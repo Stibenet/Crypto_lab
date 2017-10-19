@@ -1,0 +1,27 @@
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\bin\Debug\Encription_lab1.exe.config
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\bin\Debug\Encription_lab1.exe
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\bin\Debug\Encription_lab1.pdb
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\obj\Debug\Encription_lab1.csprojResolveAssemblyReference.cache
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\obj\Debug\Encription_lab1.Form1.resources
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\obj\Debug\Encription_lab1.Properties.Resources.resources
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\obj\Debug\Encription_lab1.csproj.GenerateResource.Cache
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\obj\Debug\Encription_lab1.exe
+c:\users\марсель\documents\visual studio 2017\Projects\Encription_lab1\obj\Debug\Encription_lab1.pdb
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\bin\Debug\Encription_lab1.exe.config
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\bin\Debug\Encription_lab1.exe
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\bin\Debug\Encription_lab1.pdb
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\obj\Debug\Encription_lab1.csprojResolveAssemblyReference.cache
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\obj\Debug\Encription_lab1.Form1.resources
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\obj\Debug\Encription_lab1.Properties.Resources.resources
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\obj\Debug\Encription_lab1.csproj.GenerateResource.Cache
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\obj\Debug\Encription_lab1.exe
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Encription_lab1\obj\Debug\Encription_lab1.pdb
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\bin\Debug\Encription_lab1.exe.config
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\bin\Debug\Encription_lab1.exe
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\bin\Debug\Encription_lab1.pdb
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\obj\Debug\Encription_lab1.csprojResolveAssemblyReference.cache
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\obj\Debug\Encription_lab1.Form1.resources
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\obj\Debug\Encription_lab1.Properties.Resources.resources
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\obj\Debug\Encription_lab1.csproj.GenerateResource.Cache
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\obj\Debug\Encription_lab1.exe
+C:\Users\Марсель\Google Диск\4курс Главное выжить!\Защита информации\Лаб1\Encription_lab1\obj\Debug\Encription_lab1.pdb
